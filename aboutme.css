@@ -1,0 +1,63 @@
+h1#about {
+    color: red;
+    text-align: center;
+    font-size: 64px;
+}
+p#para {
+    font-size: 42px;
+    text-align: justify;
+    color: #404040;
+    margin-left: 50px;
+    margin-right: 54px;
+}
+h2#about1 {
+    font-size: 55px;
+    color: rgb(255, 0, 0);
+    margin-left: 50px;
+}
+ul {
+    font-size: 40px;
+    list-style: auto;
+    margin-left: 85px;
+}
+body {
+    background-color: gainsboro;
+    margin: 0px;
+    padding: 0px;
+}
+.working {
+    justify-content: center;
+    display: grid;
+    background-color: rgba(198,219,246,255);
+    margin-left: 3em;
+    margin-right: 2em;
+}
+
+h3 {
+    text-align: center;
+    font-size: 54px;
+    color: #ff0707;
+    margin-bottom: 5px;
+}
+img {
+    margin-bottom: 11px;
+    height: 20em;
+    width: 58em;
+}
+span{
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    font-size: 25px;
+    margin-top: 34em;
+    
+}
+i.fa-solid.fa-user-plus {
+    margin-right: 20px;
+}
